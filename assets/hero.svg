@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Wuster Builds</title>
+  <desc id="desc">Industrial grid banner for Allen Wu's open-source projects.</desc>
+  <rect width="1280" height="520" fill="#f3f1e9"/>
+  <g stroke="#0f0e12" stroke-width="2" fill="none">
+    <path d="M32 32h1216v456H32z"/><path d="M32 104h1216M800 104v384"/>
+    <path d="M800 200h448M800 296h448M800 392h448M912 104v384M1024 104v384M1136 104v384"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#0f0e12">
+    <text x="56" y="76" font-size="24" font-weight="700" letter-spacing="4">ALLEN WU / WUSTERBUILDS</text>
+    <text x="1036" y="76" font-size="18" letter-spacing="3">NYC / 2026</text>
+    <text x="56" y="236" font-size="82" font-weight="700" letter-spacing="-4">SOFTWARE FOR</text>
+    <text x="56" y="316" font-size="82" font-weight="300" letter-spacing="-4">EXPERT WORK</text>
+    <text x="60" y="384" font-size="22">Open tools for finance, operations, and agent-native workflows.</text>
+    <text x="60" y="428" font-size="16" letter-spacing="2">BUILD / SHOW / SHARE</text>
+  </g>
+  <rect x="800" y="104" width="112" height="96" fill="#ff5c00"/>
+  <rect x="912" y="200" width="112" height="96" fill="#c8ff1a"/>
+  <rect x="1024" y="296" width="112" height="96" fill="#355cff"/>
+  <rect x="1136" y="392" width="112" height="96" fill="#f0660d"/>
+  <g font-family="Menlo,Consolas,monospace" fill="#0f0e12" font-size="14">
+    <text x="820" y="142">01</text><text x="820" y="180">PLUMB.XLS</text>
+    <text x="932" y="238">02</text><text x="932" y="276">PLATFORM</text>
+    <text x="1044" y="334" fill="#fff">03</text><text x="1044" y="372" fill="#fff">INCENTA</text>
+    <text x="1156" y="430" fill="#fff">04</text><text x="1156" y="468" fill="#fff">NABO</text>
+  </g>
+</svg>
