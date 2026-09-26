@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Wuster Builds — software for expert work" width="100%" />
-</p>
-
 # Hi, I’m Allen.
 
 I build open-source tools that turn messy, expert workflows into clear and auditable software—usually where AI has to work inside the tools people already use.
