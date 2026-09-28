@@ -27,5 +27,5 @@ The shared visual language for these projects is documented in [BRAND.md](BRAND.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/you-wu-46a411154/)
+- [LinkedIn](https://www.linkedin.com/in/allen-wu-46a411154/)
 - [GitHub](https://github.com/wusterbuilds)
